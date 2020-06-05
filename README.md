@@ -1,2 +1,2 @@
 # Adblock-list
-ini adalah list web untuk di masukan kedalam blacklist pi-hole dan adblock
+ini adalah list web untuk di masukan kedalam blacklist pi-hole
